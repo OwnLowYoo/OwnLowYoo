@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**OwnLowYoo/OwnLowYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - My name is Gleb 
 - I'm interesting in sport, codding, disign, reading, drawing
