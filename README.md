@@ -7,7 +7,7 @@
 - 🏬 I'm living in Grodno city
 - 🎶 I'm interesting in sport, codding, disign, reading, drawing
 - 🏫 I'm studying in GrSU of Yanka Kupala
-- 💻 I’m currently learning JavaScript, Blender, Illustrator, Photoshop
+- 💻 I’m currently learning JavaScript, React, HTML, CSS, Illustrator, Photoshop
 - :mailbox: How connect with me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kckglb) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:belgokstak@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/глеб-кацко-a86228270)
 
 ---
